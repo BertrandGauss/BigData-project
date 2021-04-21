@@ -1,0 +1,3 @@
+需要使用Hadoop+Spark完全分布式环境，需要先将数据上传至HDFS中，需要额外安装的包有：
+wordcloud
+pycharts
